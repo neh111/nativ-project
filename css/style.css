@@ -6,7 +6,9 @@ a {
     direction: rtl;
     max-width: 100%;
 }
-
+body{
+    background-color: #cd2033;
+}
 /*/*****************responsuve*****************************/
 @media (max-width:1500px) {
     /*/*********************call-us-responsuve*****************************/
@@ -690,7 +692,7 @@ text-align: center;
     background-size: 100%;
 
 }
-
+b
 .circle_url .sqear div a {
     width: 30%;
     background-repeat: no-repeat;
